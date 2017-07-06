@@ -1,0 +1,2 @@
+# CatLib.ImageCache
+ImageCache
